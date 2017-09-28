@@ -1,0 +1,22 @@
+/******* The basic style for button ******/
+.button-nav {
+  display: inline-block;
+  font-family: Arial, sans;
+  font-size: 1rem;
+  text-decoration: none;
+  text-align: center;
+  line-height: 1.42857143;
+  padding: 0.8rem 1rem;
+  margin-bottom: 1rem;
+  white-space: nowrap;
+  vertical-align: middle;
+  border: 1px solid black;
+  color: black;
+  background-color: white;
+}
+
+.button-nav:hover {
+  color: white;
+  background-color: black;
+  transition: background-color .3s ease-in-out;
+}
