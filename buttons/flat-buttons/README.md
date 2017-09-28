@@ -1,5 +1,5 @@
-## Flat Buttons
+# Flat Buttons
 
-# Site URL
+## Live buttons on JsBin
 
-https://tfeditm.github.io/my-components/buttons/flat-buttons
+https://jsbin.com/defada/edit?html,css,output
